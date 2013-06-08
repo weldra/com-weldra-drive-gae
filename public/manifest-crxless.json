@@ -1,0 +1,8 @@
+{
+  "name": "Weldra Drive",
+  "description": "Access your files from various locations",
+  "launch_url": "/",
+  "icons": {
+    "128": "icon.png"
+  }
+}
